@@ -1,1 +1,0 @@
-# FastApi-Crud-application-with-mysql
